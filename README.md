@@ -8,4 +8,4 @@
 <img src="correlation.png"/>
 
 ## Feature importance
-<img src="feature-imp.jpg"/>
+<img src="feature_imp.jpg"/>
