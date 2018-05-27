@@ -3,3 +3,6 @@
 
 ## Number of Pickup heatmap
 <img src="Taxi_plot-2.jpg"/>
+
+## Correlation between variables
+<img src-"correlation.png"/>
