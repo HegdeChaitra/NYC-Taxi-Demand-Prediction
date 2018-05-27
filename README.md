@@ -6,3 +6,6 @@
 
 ## Correlation between variables
 <img src="correlation.png"/>
+
+## Feature importance
+<img src="feature-imp.jpg"/>
